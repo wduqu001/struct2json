@@ -4,7 +4,7 @@
 
 ## struct2json
 
-[struct2json](https://github.com/armink/struct2json) Is an open source C structure with JSON fast interchange library，which can quickly implement the serialization between ** structure objects ** and ** JSON objects ** and deserialization requirements.Fast, simple API design, greatly reducing the use of JSON parsing library to achieve the functionality of such code complexity.
+[struct2json](https://github.com/armink/struct2json) Is an open source C structure with JSON fast interchange library，which can quickly implement the serialization between ** structure objects ** and ** JSON objects ** and deserialization requirements. Fast, simple API design, greatly reducing the use of JSON parsing library to achieve the functionality of such code complexity.
 
 ## Origin
 
