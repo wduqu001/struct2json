@@ -40,13 +40,13 @@ typedef struct {
 
 ### Serialize the structure object into a JSON object
 
-|Before use（[源文件](https://github.com/armink/struct2json/blob/master/docs/zh/assets/not_use_struct2json.c)）|After use（[源文件](https://github.com/armink/struct2json/blob/master/docs/zh/assets/used_struct2json.c)）|
+|Before use（[Code Source](https://github.com/armink/struct2json/blob/master/docs/zh/assets/not_use_struct2json.c)）|After use（[Code Source](https://github.com/armink/struct2json/blob/master/docs/zh/assets/used_struct2json.c)）|
 |:-----:|:-----:|
 |![Structure to JSON (before use)](https://git.oschina.net/Armink/struct2json/raw/master/docs/zh/images/not_use_struct2json.png)| ![结构体转JSON-使用后](https://git.oschina.net/Armink/struct2json/raw/master/docs/zh/images/used_struct2json.png)|
 
 ### The JSON object is deserialized into a structure object
 
-|Before use（[源文件](https://github.com/armink/struct2json/blob/master/docs/zh/assets/not_use_struct2json_for_json.c)）|使用后（[源文件](https://github.com/armink/struct2json/blob/master/docs/zh/assets/used_struct2json_for_json.c)）|
+|Before use（[Code Source](https://github.com/armink/struct2json/blob/master/docs/zh/assets/not_use_struct2json_for_json.c)）|After use（[Code Source](https://github.com/armink/struct2json/blob/master/docs/zh/assets/used_struct2json_for_json.c)）|
 |:-----:|:-----:|
 |![JSON转结构体-使用前](https://git.oschina.net/Armink/struct2json/raw/master/docs/zh/images/not_use_struct2json_for_json.png)| ![JSON转结构体-使用后](https://git.oschina.net/Armink/struct2json/raw/master/docs/zh/images/used_struct2json_for_json.png)|
 
