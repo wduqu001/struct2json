@@ -4,7 +4,7 @@
 
 ## struct2json
 
-[struct2json](https://github.com/armink/struct2json) Is an open source C structure with JSON fast interchange library，which can quickly implement the serialization between ** structure objects ** and ** JSON objects ** and deserialization requirements. Fast, simple API design, greatly reducing the use of JSON parsing library to achieve the functionality of such code complexity.
+[struct2json](https://github.com/armink/struct2json) Is an open source C structure with JSON fast interchange library，which can quickly implement the serialization between **structure objects** and **JSON objects** and deserialization requirements. Fast, simple API design, greatly reducing the use of JSON parsing library to achieve the functionality of such code complexity.
 
 ## Origin
 
@@ -50,11 +50,11 @@ typedef struct {
 |:-----:|:-----:|
 |![JSON转结构体-使用前](https://git.oschina.net/Armink/struct2json/raw/master/docs/zh/images/not_use_struct2json_for_json.png)| ![JSON转结构体-使用后](https://git.oschina.net/Armink/struct2json/raw/master/docs/zh/images/used_struct2json_for_json.png)|
 
-Welcome everybody **fork and pull request**([Github](https://github.com/armink/struct2json)|[OSChina](http://git.oschina.net/armink/struct2json)|[Coding](https://coding.net/u/armink/p/struct2json/git)). If you think this open source project is great，click on the ** Star **，at the upper right corner and recommend it to friends in need.
+Welcome everybody **fork and pull request**([Github](https://github.com/armink/struct2json)|[OSChina](http://git.oschina.net/armink/struct2json)|[Coding](https://coding.net/u/armink/p/struct2json/git)). If you think this open source project is great，click on the **Star**，at the upper right corner and recommend it to friends in need.
 
 ## Documentation
 
-Specific content reference[`\docs\zh\`](https://github.com/armink/struct2json/tree/master/docs/zh)Under the file. Make sure to ** read the documentation ** and then use it.
+Specific content reference[`\docs\zh\`](https://github.com/armink/struct2json/tree/master/docs/zh)Under the file. Make sure to **read the documentation** and then use it.
 
 ## License
 
