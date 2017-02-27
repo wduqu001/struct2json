@@ -50,7 +50,7 @@ typedef struct {
 |:-----:|:-----:|
 |![JSON转结构体-使用前](https://git.oschina.net/Armink/struct2json/raw/master/docs/zh/images/not_use_struct2json_for_json.png)| ![JSON转结构体-使用后](https://git.oschina.net/Armink/struct2json/raw/master/docs/zh/images/used_struct2json_for_json.png)|
 
-Welcome everybody **fork and pull request**([Github](https://github.com/armink/struct2json)|[OSChina](http://git.oschina.net/armink/struct2json)|[Coding](https://coding.net/u/armink/p/struct2json/git)). If you think this open source project is great，click on the[项目主页](https://github.com/armink/struct2json) **Star**，at the upper right corner and recommend it to friends in need.
+Welcome everybody **fork and pull request**([Github](https://github.com/armink/struct2json)|[OSChina](http://git.oschina.net/armink/struct2json)|[Coding](https://coding.net/u/armink/p/struct2json/git)). If you think this open source project is great，click on the ** Star **，at the upper right corner and recommend it to friends in need.
 
 ## Documentation
 
